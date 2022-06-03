@@ -1,4 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 gcc -E $CFILE -o preprocessor
 cat >main.c
 clear
@@ -12,3 +13,6 @@ int main(void)
 {
 return (0);
 }
+=======
+gcc -E $CFILE -0 c
+>>>>>>> ce2116a13f9a3ed7dc58562ff124ec7a67cbc6b0
