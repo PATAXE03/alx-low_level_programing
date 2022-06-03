@@ -1,6 +1,2 @@
 #!/bin/bash
 gcc -E $CFILE -0 c
-exit cat file
-contadict exit cat file
-exit
-contradict exitthe cat file
