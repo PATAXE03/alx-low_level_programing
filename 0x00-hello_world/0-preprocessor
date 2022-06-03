@@ -1,6 +1,14 @@
 #!/bin/bash
-gcc -E $CFILE -0 c
-exit cat file
-contadict exit cat file
-exit
-contradict exitthe cat file
+gcc -E $CFILE -o preprocessor
+cat >main.c
+clear
+#include <stdio.h>
+/**
+*main -Entry point
+*
+*Return: Always 0 (Success)
+*/
+int main(void)
+{
+return (0);
+}
